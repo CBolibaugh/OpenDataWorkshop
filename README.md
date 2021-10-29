@@ -1,5 +1,5 @@
 # Open Data Workshop
-Materials from the Open Data Workshop held by EROS at the Department of Education, University of York.
+Materials from the Open Data Workshop held by EROS (Education Researchers for Open Science) at the Department of Education, University of York.
 
 . . .
 
