@@ -1,0 +1,14 @@
+name: "OpenDataWorkshop"  
+author: "Cylcia Bolibaugh" 
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Open Data Workshop"  
+  left:
+  - text: Sessions
+    href: sessions.html
+  - text: Resources
+    href: resources.html

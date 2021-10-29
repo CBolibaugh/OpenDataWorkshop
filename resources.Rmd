@@ -1,0 +1,42 @@
+---
+title: "Resources"
+output: html_document
+---
+
+-   Towse, J. N., Rumsey, S., Owen, N., Langford, P., Jaquiery, M., & Bolibaugh, C. (2020, October 30). Data Sharing: a Primer from UKRN. <https://doi.org/10.31219/osf.io/wp4zu>
+
+-   Bolibaugh, C., Vanek, N., & Marsden, E. (2021). Towards a credibility revolution in bilingualism research: Open data and materials as stepping stones to more reproducible and replicable research. Bilingualism: Language and Cognition, 1-6. <doi:10.1017/S1366728921000535>
+
+-   Branney, P., Reid, K., Frost, N., Coan, S., Mathieson, A., & Woolhouse, M. (2019). A context-consent meta-framework for designing open (qualitative) data studies. Qualitative Research in Psychology.
+
+-   Chauvette, A., Schick-Makaroff, K., & Molzahn, A. E. (2019). Open Data in Qualitative Research. International Journal of Qualitative Methods, 18, 1609406918823863. <https://journals.sagepub.com/doi/full/10.1177/1609406918823863>
+
+-   RAD presentation from Maureen Haaker from UKDS re sharing qualitative data [here](https://osf.io/bvu4a/)
+
+-   The Turing Way Guide for Reproducible Research: <https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html>
+
+***Resources at York***
+
+-   <https://www.york.ac.uk/library/info-for/researchers/data/research-data-york/>
+
+-   Data Protection: email [dataprotection\@york.ac.uk](mailto:dataprotection@york.ac.uk){.email}
+
+    -   Resources: [GDPR compliant research](https://www.york.ac.uk/records-management/dp/guidance/gdprcompliantresearch/), [Data Protection Impact Assessment (DPIA)](https://www.york.ac.uk/records-management/dp/dataprivacyimpactassessments/), [Data sharing](https://www.york.ac.uk/records-management/dp/guidance/datasharing/)
+
+-   Ethical compliance: [Departmental and Subject Ethics Committees](https://www.york.ac.uk/about/organisation/governance/sub-committees/ethics/#tab-4)
+
+    -   Resources: [Code of Practice on Research Integrity](https://www.york.ac.uk/staff/research/governance/research-policies/research-code/)
+
+-   Contracts, Intellectual Property Rights: [Research and Knowledge Exchange Contracts Team](https://www.york.ac.uk/staff/research/about-re/who-to-contact-in-the-research-ke-contracts-team/)
+
+    -   Resources: [Contracts](https://www.york.ac.uk/staff/research/external-funding/contracts/), [Intellectual property](https://www.york.ac.uk/staff/research/external-funding/ip/), [Confidential disclosure agreements](https://www.york.ac.uk/staff/research/external-funding/ip/disclosure/), [Material transfer agreements](https://www.york.ac.uk/staff/research/external-funding/ip/mtas/)
+
+-   Information security: email [itsupport\@york.ac.uk](mailto:itsupport@york.ac.uk){.email}
+
+    -   Resources: [Information security](https://www.york.ac.uk/about/departments/support-and-admin/information-services/information-policy/info-policy-and-you/security/), [Information Security Policy](https://www.york.ac.uk/about/departments/support-and-admin/information-services/information-policy/index/information-security-policy/)
+
+-   Copyrights: email [lib-copyright-advice\@york.ac.uk](mailto:lib-copyright-advice@york.ac.uk){.email}
+
+    -   Resources: [Copyright](https://www.york.ac.uk/records-management/copyright/), [Practical guide to copyright](http://subjectguides.york.ac.uk/copyright)
+    
+  ![](./EROS_padded_logo.png){width="30%"} **For more info, contact: [cylcia.bolibaugh\@york.ac.uk](mailto:cylcia.bolibaugh@york.ac.uk){.email}**
