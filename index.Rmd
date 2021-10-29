@@ -27,6 +27,6 @@ The first half of the workshop reviews epistemological, methodological, legal, a
 
 ***I want to get involved but can't make it to the workshop.***
 
-Materials from the session will be available on EROS' OSF page: <https://osf.io/qwurf/> and on the [github repository] (https://cbolibaugh.github.io/OpenDataWorkshop/).
+Materials from the session will be available on EROS' OSF page: <https://osf.io/qwurf/> and on the [github repository](https://cbolibaugh.github.io/OpenDataWorkshop/).
 
 ![](./EROS_padded_logo.png){width="30%"} **For more info, contact: [cylcia.bolibaugh\@york.ac.uk](mailto:cylcia.bolibaugh@york.ac.uk){.email}**
