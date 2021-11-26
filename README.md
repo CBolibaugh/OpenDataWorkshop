@@ -1,6 +1,9 @@
 # Open Data Workshop
 Materials from the Open Data Workshop held by EROS (Education Researchers for Open Science) at the Department of Education, University of York.
 
+
+[![DOI](https://zenodo.org/badge/422586766.svg)](https://zenodo.org/badge/latestdoi/422586766)
+
 . . .
 
 This is the first in a series of ***Applying open practices to our own
